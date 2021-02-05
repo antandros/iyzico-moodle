@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/antandrostech/iyzico-moodle)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/antandrostech/iyzico-moodle)
 
-A plugin for [Moodle LMS](https://moodle.org) to use iyzico payments for course enrollments, developed by [Made by Sense](mailto:info@madebysense.co).
+A plugin for [Moodle LMS](https://moodle.org) to use iyzico payments for course enrollments, developed by [Made by Sense](mailto:info@madebysense.co) and [Antandros Teknoloji](https://antandros.tech).
 
 ### Features
 
@@ -21,9 +21,13 @@ A plugin for [Moodle LMS](https://moodle.org) to use iyzico payments for course 
 
 You can install the plugin from Moodle administration, just download the zip file from "Releases" and upload it from "Modules > Install addon".
 
+Plugin is also available at Moodle plugins directory, you may download it from the project page link below: 
+
+<https://moodle.org/plugins/enrol_iyzicopayment>
+
 ### Screenshots
 
-TODO
+![iyzico payment](https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2624/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC_2021-01-29_16-26-19.png)
 
 ### License
 
@@ -31,5 +35,5 @@ Copyright (C) 2021  Antandros Teknoloji and Made by Sense
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-
+For commercial licensing, please contact with us via bilgi {at} antandros.com.tr 
 
