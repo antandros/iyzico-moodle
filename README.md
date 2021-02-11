@@ -16,6 +16,7 @@ A plugin for [Moodle LMS](https://moodle.org) to use iyzico payments for course 
   - Enrollment duration limit option
   - BKM Express payments
   - Sandbox option for testing
+  - Turkish language support
 
 ### Installation
 
@@ -28,6 +29,10 @@ Plugin is also available at Moodle plugins directory, you may download it from t
 ### Screenshots
 
 ![iyzico payment](https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2624/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC_2021-01-29_16-26-19.png)
+
+### Known issues
+
+Unfortunately, on Turkish Moodle instances, due to the mistranslation of currency string, "Turkish Lira (TRY)" currency is listed as "Yeni Türk Lirası" instead of "Türk Lirası". We have sent a fix for this mistranslation, until it would have been merged, you may translate that string via internal Moodle language translation tool; the string is located under "core_currencies".
 
 ### License
 
