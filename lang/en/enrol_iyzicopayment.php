@@ -20,7 +20,7 @@
  * @package    enrol_iyzicopayment
  * @copyright  2019 Dualcube Team
  * @copyright  2021 Made by Sense
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @license    http://www.gnu.org/licenses/agpl-3.0.html GNU AGPL v3 or later
  */
 
 $string['assignrole'] = 'Assign role';
